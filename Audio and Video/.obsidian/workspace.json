@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 300
   },
   "right": {
     "id": "6df128380fe9d2ab",
@@ -206,8 +206,8 @@
   "active": "d32dc2c86b6641ab",
   "lastOpenFiles": [
     "Pasted image 20261101181341.jpg",
-    "欢迎.md",
     "Lecture 1.md",
+    "欢迎.md",
     "未命名"
   ]
 }
